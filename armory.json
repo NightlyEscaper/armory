@@ -5,6 +5,18 @@
             "command_name": "certify",
             "repo_url": "https://github.com/NightlyEscaper/Certify",
             "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "SharpHound 3 (Out-time)",
+            "command_name": "sharphound3",
+            "repo_url": "https://github.com/sliverarmory/SharpHound3",
+            "public_key": "RWRtfmkEkEa+VUsK0fvrCvz/zB9+cSZl50TJz9epUohCY2hfCxC9ttHy"
+        },
+        {
+            "name": "KrbRelayUp",
+            "command_name": "krbrelayup",
+            "repo_url": "https://github.com/NightlyEscaper/KrbRelayUp",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
         }
     ],
     "extensions": [
