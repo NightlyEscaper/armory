@@ -7,16 +7,108 @@
             "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
         },
         {
-            "name": "SharpHound 3 (Out-time)",
-            "command_name": "sharphound3",
-            "repo_url": "https://github.com/sliverarmory/SharpHound3",
-            "public_key": "RWRtfmkEkEa+VUsK0fvrCvz/zB9+cSZl50TJz9epUohCY2hfCxC9ttHy"
+            "name": "SharpHound 3 ( !OPSEC / Out-time )",
+            "command_name": "sharp-hound-3",
+            "repo_url": "https://github.com/NightlyEscaper/SharpHound3",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
         },
         {
             "name": "KrbRelayUp",
             "command_name": "krbrelayup",
             "repo_url": "https://github.com/NightlyEscaper/KrbRelayUp",
             "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "SharpUp",
+            "command_name": "sharpup",
+            "repo_url": "https://github.com/NightlyEscaper/SharpUp",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "Rubeus",
+            "command_name": "rubeus",
+            "repo_url": "https://github.com/NightlyEscaper/Rubeus",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "Seatbelt",
+            "command_name": "seatbelt",
+            "repo_url": "https://github.com/NightlyEscaper/Seatbelt",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "SharpWMI",
+            "command_name": "sharpwmi",
+            "repo_url": "https://github.com/NightlyEscaper/SharpWMI",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "SharpMapExec",
+            "command_name": "sharpmapexec",
+            "repo_url": "https://github.com/NightlyEscaper/SharpMapExec",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "SharpKatz",
+            "command_name": "sharpkatz",
+            "repo_url": "https://github.com/NightlyEscaper/SharpKatz",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "Tokenvator",
+            "command_name": "tokenvator",
+            "repo_url": "https://github.com/NightlyEscaper/Tokenvator",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "Snaffler",
+            "command_name": "snaffler",
+            "repo_url": "https://github.com/NightlyEscaper/Snaffler",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "FakeLogonScreen",
+            "command_name": "fakelogonscreen",
+            "repo_url": "https://github.com/NightlyEscaper/fakelogonscreen",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "BrowserGhost",
+            "command_name": "browserghost",
+            "repo_url": "https://github.com/NightlyEscaper/BrowserGhost",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "SharpGPOAbuse",
+            "command_name": "sharpgpoabuse",
+            "repo_url": "https://github.com/NightlyEscaper/BrowserGhost",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "ADCSPwn",
+            "command_name": "adcspwn",
+            "repo_url": "https://github.com/NightlyEscaper/ADCSPwn",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+
+
+        {
+            "name": "nopowershell",
+            "command_name": "nps",
+            "repo_url": "https://github.com/sliverarmory/nopowershell",
+            "public_key": "RWRZAQd8e5n+PqVo0P60o2njMPNLuXcQ+hRUZR44Enq047zKSHwb0l7d"
+        },
+        {
+            "name": "SharpView",
+            "command_name": "sharpview",
+            "repo_url": "https://github.com/sliverarmory/SharpView",
+            "public_key": "RWSBkgNHbFrYPJAhEG6oK8hejcoUwlOax/l/dVygVbscPvT5L6Cu3sWw"
+        },
+        {
+            "name": "SharpRDP",
+            "command_name": "sharprdp",
+            "repo_url": "https://github.com/sliverarmory/SharpRDP",
+            "public_key": "RWTppYqZIoiln9Vuj7dLtPBAjt+3BjpR3t3NCJfvBlLhZqgvE4qjdqkF"
         }
     ],
     "extensions": [
