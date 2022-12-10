@@ -5,10 +5,9 @@ on:
     branches: ["main"]
 
 jobs:
-
   linux-windows-build:
     name: Sign Index
-    if: startsWith( github.ref, 'refs/tags/v')
+    #if: startsWith( github.ref, 'refs/tags/v')
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
