@@ -2,7 +2,6 @@ name: Release
 
 on:
   push:
-    tags: ["v[0-9]+.[0-9]+.[0-9]+"]
     branches: ["main"]
 
 jobs:
@@ -22,6 +21,13 @@ jobs:
         tar xvf minisign-linux-amd64.tar.gz
         mv ./minisign ~/minisign
 
+    - name: Bump version and push tag
+      id : tag 
+      uses: anothrNick/github-tag-action@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        WITH_V: true
+
     - name: Check out code into the Go module directory
       uses: actions/checkout@v2
 
@@ -39,6 +45,7 @@ jobs:
       with:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
         prerelease: false
+        automatic_release_tag: ${{ steps.tag.outputs.tag }}
         files: |
           ./armory.json
           ./armory.minisig
