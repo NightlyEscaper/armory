@@ -96,6 +96,12 @@
             "repo_url": "https://github.com/NightlyEscaper/ADCSPwn",
             "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
         },
+        {
+            "name": "SharpBypassUAC",
+            "command_name": "sharpbypassuac",
+            "repo_url": "https://github.com/NightlyEscaper/SharpBypassUAC",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
 
 
         {
@@ -650,10 +656,11 @@
             ]
         },
         {
-            "name": "Local Privilege Audit",
+            "name": "Local Privilege Elevate",
             "packages":[
                 "sharpup",
-                "tokenvator"
+                "tokenvator",
+                "sharpbypassuac"
             ]
         },
         {
