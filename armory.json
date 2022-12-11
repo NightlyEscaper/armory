@@ -161,7 +161,18 @@
             "repo_url": "https://github.com/NightlyEscaper/bof-collection",
             "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
         },
-
+        {
+            "name": "SprayAD",
+            "command_name": "sprayad",
+            "repo_url": "https://github.com/NightlyEscaper/Spray-AD",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "SliverKeylogger",
+            "command_name": "keylogger",
+            "repo_url": "https://github.com/NightlyEscaper/SliverKeylogger",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
 
         {
             "name": "BOF Roast",
@@ -663,7 +674,9 @@
                 "ldapsigncheck",
                 "sharpview",
                 "delegationbof",
-                "tgtdelegation"
+                "tgtdelegation",
+                "group3r",
+                "sprayad"
             ]
         },
         {
@@ -692,7 +705,8 @@
                 "nps",
                 "sleeper",
                 "find-module",
-                "find-proc-handle"
+                "find-proc-handle",
+                "keylogger"
             ]
         },
         {
