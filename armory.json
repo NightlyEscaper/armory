@@ -7,9 +7,15 @@
             "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
         },
         {
-            "name": "SharpHound 3 ( !OPSEC / Out-time )",
-            "command_name": "sharp-hound-3",
+            "name": "SharpHound 3 [ !OPSEC / Out-time ]",
+            "command_name": "sharphound3",
             "repo_url": "https://github.com/NightlyEscaper/SharpHound3",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "SharpHound",
+            "command_name": "sharphound",
+            "repo_url": "https://github.com/NightlyEscaper/SharpHound",
             "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
         },
         {
