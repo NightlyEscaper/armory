@@ -103,12 +103,17 @@
             "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
         },
         {
+            "name": "Group3r",
+            "command_name": "group3r",
+            "repo_url": "https://github.com/NightlyEscaper/Group3r",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
             "name": "Koh",
             "command_name": "koh",
             "repo_url": "https://github.com/NightlyEscaper/Koh",
             "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
         },
-
 
         {
             "name": "nopowershell",
