@@ -180,6 +180,31 @@
             "repo_url": "https://github.com/NightlyEscaper/SliverKeylogger",
             "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
         },
+        {
+            "name": "WdToggle",
+            "command_name": "wdtoggle",
+            "repo_url": "https://github.com/NightlyEscaper/WdToggle",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "spawn",
+            "command_name": "spawn",
+            "repo_url": "https://github.com/NightlyEscaper/spawn",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "remote-quser",
+            "command_name": "remote-quser",
+            "repo_url": "https://github.com/NightlyEscaper/Quser-BOF",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "RDPHijack",
+            "command_name": "rdphijack",
+            "repo_url": "https://github.com/NightlyEscaper/RDPHijack-BOF",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+
 
         {
             "name": "BOF Roast",
@@ -646,7 +671,8 @@
             "packages": [
                 "hollow",
                 "secinject",
-                "syscalls_shinject"
+                "syscalls_shinject",
+                "spawn"
             ]
         },
         {
@@ -655,7 +681,8 @@
                 "nanodump",
                 "handlekatz",
                 "sharpkatz",
-                "browserghost"
+                "browserghost",
+                "wdtoggle"
             ]
         },
         {
@@ -791,7 +818,8 @@
                 "remote-sc-description",
                 "remote-sc-start",
                 "remote-sc-stop",
-                "remote-setuserpass"
+                "remote-setuserpass",
+                "remote-quser"
             ]
         }
     ]
