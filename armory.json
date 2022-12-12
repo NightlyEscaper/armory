@@ -120,36 +120,7 @@
             "repo_url": "https://github.com/NightlyEscaper/Stracciatella",
             "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
         },
-        {
-            "name": "persist-ice-junction",
-            "command_name": "persist-ice-junction",
-            "repo_url": "https://github.com/NightlyEscaper/PersistBOF",
-            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
-        },
-        {
-            "name": "persist-ice-monitor",
-            "command_name": "persist-ice-monitor",
-            "repo_url": "https://github.com/NightlyEscaper/PersistBOF",
-            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
-        },
-        {
-            "name": "persist-ice-shortcut",
-            "command_name": "persist-ice-shortcut",
-            "repo_url": "https://github.com/NightlyEscaper/PersistBOF",
-            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
-        },
-        {
-            "name": "persist-ice-time",
-            "command_name": "persist-ice-time",
-            "repo_url": "https://github.com/NightlyEscaper/PersistBOF",
-            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
-        },
-        {
-            "name": "UACBypass-TrustedPath",
-            "command_name": "uacbypass-trustedpath",
-            "repo_url": "https://github.com/NightlyEscaper/TrustedPath-UACBypass-BOF",
-            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
-        },
+
 
         {
             "name": "nopowershell",
@@ -231,6 +202,42 @@
             "name": "RDPHijack",
             "command_name": "rdphijack",
             "repo_url": "https://github.com/NightlyEscaper/RDPHijack-BOF",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "persist-ice-junction",
+            "command_name": "persist-ice-junction",
+            "repo_url": "https://github.com/NightlyEscaper/PersistBOF",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "persist-ice-monitor",
+            "command_name": "persist-ice-monitor",
+            "repo_url": "https://github.com/NightlyEscaper/PersistBOF",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "persist-ice-shortcut",
+            "command_name": "persist-ice-shortcut",
+            "repo_url": "https://github.com/NightlyEscaper/PersistBOF",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "persist-ice-time",
+            "command_name": "persist-ice-time",
+            "repo_url": "https://github.com/NightlyEscaper/PersistBOF",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "UACBypass-TrustedPath",
+            "command_name": "uacbypass-trustedpath",
+            "repo_url": "https://github.com/NightlyEscaper/TrustedPath-UACBypass-BOF",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
+        },
+        {
+            "name": "herpaderp",
+            "command_name": "herpaderp",
+            "repo_url": "https://github.com/NightlyEscaper/BOF-herpaderping",
             "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
         },
 
@@ -701,7 +708,8 @@
                 "hollow",
                 "secinject",
                 "syscalls_shinject",
-                "spawn"
+                "spawn",
+                "herpaderp"
             ]
         },
         {
