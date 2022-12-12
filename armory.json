@@ -145,8 +145,8 @@
         {
             "name": "COFF Loader",
             "command_name": "coff-loader",
-            "repo_url": "https://github.com/sliverarmory/COFFLoader",
-            "public_key": "RWS76vh9dCN1PXI/+xiuXPdDFAM+lI0+AT44AmrISFSbuT/EVsoRS+a0"
+            "repo_url": "https://github.com/NightlyEscaper/COFFLoader",
+            "public_key": "RWSletBoqoYzPckb5zNYfCYAs3VF+aghr3ZDm/9bl+k8MvLJPd7QJIwI"
         },
         
 
