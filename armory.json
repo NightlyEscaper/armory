@@ -325,7 +325,12 @@
             "repo_url": "https://github.com/sliverarmory/BOFs",
             "public_key": "RWS3pUfl/3Kb6A3F69YmQe3SmhSU1s5+wt3Z3tgX1IiDHpIMqKjY8/Qu"
         },
-
+        {
+            "name": "HackBrowserData",
+            "command_name": "hackbrowserdata",
+            "repo_url": "https://github.com/NightlyEscaper/HackBrowserData",
+            "public_key": "RWS3pUfl/3Kb6A3F69YmQe3SmhSU1s5+wt3Z3tgX1IiDHpIMqKjY8/Qu"
+        },
 
         {
             "name": "ADCS Enum",
